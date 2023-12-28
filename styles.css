@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Quicksand:wght@300;400&family=Single+Day&display=swap');
+
+.font-nunito {
+    font-family: 'Nunito', sans-serif;
+}
+
+.font-quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.font-single-day {
+    font-family: 'Single Day', cursive;
+}
